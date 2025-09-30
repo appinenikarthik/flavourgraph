@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 100" width="140" height="100" role="img" aria-label="Veggie Omelette">
+  <rect width="140" height="100" rx="10" fill="#071022"/>
+  <g transform="translate(12,12)">
+    <ellipse cx="58" cy="44" rx="30" ry="18" fill="#f59e0b"/>
+    <circle cx="45" cy="36" r="6" fill="#ef4444"/>
+    <circle cx="72" cy="36" r="6" fill="#16a34a"/>
+    <text x="58" y="74" fill="#cfeff2" font-family="Inter, Arial" font-size="10">Omelette</text>
+  </g>
+</svg>

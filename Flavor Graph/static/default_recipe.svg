@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" width="200" height="140" role="img" aria-label="Recipe image">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="140" rx="12" fill="#071022" />
+  <g transform="translate(16,16)">
+    <rect width="168" height="108" rx="8" fill="url(#g1)" opacity="0.08" />
+    <g transform="translate(12,10)">
+      <circle cx="20" cy="20" r="16" fill="#fff" opacity="0.06" />
+      <path d="M10 50h100v6H10z" fill="#fff" opacity="0.06" />
+      <path d="M10 66h80v6H10z" fill="#fff" opacity="0.04" />
+      <text x="48" y="26" fill="#e6f9fb" font-family="Inter, Arial" font-size="16">No Image</text>
+    </g>
+  </g>
+</svg>

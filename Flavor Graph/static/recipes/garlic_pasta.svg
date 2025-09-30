@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 100" width="140" height="100" role="img" aria-label="Garlic Pasta">
+  <rect width="140" height="100" rx="10" fill="#071022"/>
+  <g transform="translate(12,12)">
+    <rect width="116" height="76" rx="8" fill="linearGradient(0,0,1,1)"/>
+    <circle cx="58" cy="40" r="26" fill="#08323a" stroke="#06b6d4" stroke-width="2"/>
+    <path d="M40 40 C50 28, 66 28, 76 40" stroke="#22d3ee" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <text x="58" y="46" fill="#e6f9fb" font-family="Inter, Arial" font-size="10" text-anchor="middle">Garlic</text>
+    <text x="58" y="58" fill="#cfeff2" font-family="Inter, Arial" font-size="9" text-anchor="middle">Pasta</text>
+  </g>
+</svg>
